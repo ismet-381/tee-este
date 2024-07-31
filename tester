@@ -1,0 +1,2 @@
+while true do
+game.ReplicatedStoroge.MainEvent:FireServer ("Stomp")
